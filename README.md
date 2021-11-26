@@ -8,7 +8,7 @@
 
 ☑️  I am a pre-final year undergraduate student, pursuing my degree in B.Tech(IT) from Maharaja Agrasen Institute Of Technology, Delhi.
 
-☑️  I am presently working as a SDE intern at Pepcoding Education Private Limited.
+☑️  I have previously worked as a SDE intern at Pepcoding Education Private Limited.
 
 ☑️  I was selected for the Microsoft Engage Program'21, wherein I was mentored by senior leaders from Microsoft India.
 
