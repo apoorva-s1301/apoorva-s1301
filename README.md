@@ -4,8 +4,6 @@
 
 ### 👩‍💻 About Me
 
-<image align="right" width="400px" src="https://user-images.githubusercontent.com/75029142/136156696-5972f16b-9ba7-410d-a8b2-5eb7f2728b89.jpg" />
-
 ☑️  I am a pre-final year undergraduate student, pursuing my degree in B.Tech(IT) from Maharaja Agrasen Institute Of Technology, Delhi.
 
 ☑️  I have previously worked as a SDE intern at Pepcoding Education Private Limited.
